@@ -1,3 +1,4 @@
+// start PHP codes
 <?php
 $arr = array("Name"=> "Edris","Last Name"=> "Ahamdi","year of born"=> 2006,"Age"=>19,"Weight"=>65,
 "Grade"=>12,"Languages"=>"English,Farsi,Pashto","Job"=>"Student");
@@ -14,6 +15,7 @@ $arr = array("Name"=> "Edris","Last Name"=> "Ahamdi","year of born"=> 2006,"Age"
     </head>
     <!-- start body -->
     <body>
+        <!-- start container fluid  -->
         <div class="container">
             <a href="#" style="--clr:#22e622; --i:2">
                 <span>
